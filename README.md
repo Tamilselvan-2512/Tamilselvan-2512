@@ -3,7 +3,7 @@
 🎯 **Lead Technical Recruiter | Aspiring Data Analyst**  
 📍 Coimbatore, India  
 
-Aspiring Data Analyst with hands-on project experience and certification in Data Analytics + Python, skilled in SQL, Python, Power BI, Excel Pivot Tables, dashboards, and data visualization. Currently working as a Lead Technical Recruiter at Emergere Technologies LLC, managing end-to-end recruitment for multiple technology roles.
+Aspiring Data Analyst with hands-on project experience and certified Data Analyst, skilled in SQL, Python, Power BI, Excel Pivot Tables, dashboards, and data visualization. Currently working as a Lead Technical Recruiter at Emergere Technologies LLC, managing end-to-end recruitment for multiple technology roles.
 Brings strong analytical thinking, experience with data-driven metrics, trend analysis, and stakeholder reporting. Proven ability to interpret data, build insights, and present findings through clear visualizations. Actively seeking to transition into a Data Analyst role to apply technical and business skills in a data-focused environment.
 
 ---
