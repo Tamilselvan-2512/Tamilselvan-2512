@@ -3,13 +3,14 @@
 🎯 **Lead Technical Recruiter | Aspiring Data Analyst**  
 📍 Coimbatore, India  
 
-I am a results-driven **Lead Technical Recruiter** with 4+ years of experience in full-cycle IT recruitment and a strong passion for **Data Analytics**. I enjoy transforming data into meaningful insights and building dashboards that support business decisions.
+Aspiring Data Analyst with hands-on project experience and certification in Data Analytics + Python, skilled in SQL, Python, Power BI, Excel Pivot Tables, dashboards, and data visualization. Currently working as a Lead Technical Recruiter at Emergere Technologies LLC, managing end-to-end recruitment for multiple technology roles.
+Brings strong analytical thinking, experience with data-driven metrics, trend analysis, and stakeholder reporting. Proven ability to interpret data, build insights, and present findings through clear visualizations. Actively seeking to transition into a Data Analyst role to apply technical and business skills in a data-focused environment.
 
 ---
 
 ## 🔹 About Me
 
-- 💼 Lead Technical Recruiter at **Emergere Technologies**
+- 💼 Lead Technical Recruiter at **Emergere Technologies** with 5+ years of exp
 - 📊 Transitioning into **Data Analytics & Business Intelligence**
 - 🔍 Strong experience in sourcing, stakeholder management, and analytics-driven decision making
 - 🚀 Promoted to Lead role based on consistent performance
